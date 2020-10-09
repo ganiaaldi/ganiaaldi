@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganiaaldi&langs_count=5&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Gania Aldi D github stats](https://github-readme-stats.vercel.app/api?username=ganiaaldi&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
 <!--
 **ganiaaldi/ganiaaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
