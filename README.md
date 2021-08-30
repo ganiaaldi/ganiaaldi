@@ -4,7 +4,9 @@
 🔭 Self production application on Gadidev.  <a href='https://play.google.com/store/apps/developer?id=Gadidev'>(Check this out)</a><br>
 for more information check my  <a href='https://ganiaaldi.github.io'>website portofolio.</a><br><br>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ganiaaldi&langs_count=5&show_icons=true&theme=radical)
 ![Gania Aldi D github stats](https://github-readme-stats.vercel.app/api?username=ganiaaldi&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
 
 <!--
 **ganiaaldi/ganiaaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
