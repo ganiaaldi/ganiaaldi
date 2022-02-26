@@ -4,7 +4,7 @@
   <h4>Android Developer | Mobile Developer</h4>
   
   <a href="https://www.linkedin.com/in/ganiaaldi/"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-Linkedin-5c5c5c?&logo=linkedin&logoColor=white"/></a>
-  <a href="https:/ganiaaldi.github.io/"><img alt="Website" title="Website" src="https://img.shields.io/badge/-Website-5c5c5c?&logo=vauxhall&logoColor=white"/></a>
+  <a href="https://ganiaaldi.github.io/"><img alt="Website" title="Website" src="https://img.shields.io/badge/-Website-5c5c5c?&logo=vauxhall&logoColor=white"/></a>
   ![](https://komarev.com/ghpvc/?username=ganiaaldi&color=lightgrey)
 
   
